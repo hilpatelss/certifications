@@ -7,27 +7,27 @@ I'm a Computer Engineering student interested in Data Analytics, SQL, Python, an
 ## Certifications
 
 ### 1. SQL (Advanced)
-- **Platform:** HackerRank
-- **Earned:** 25 October 2026
-- **Credential ID:** D643F243CF60
-- **Skills:** SQL, Query Optimization, Data Retrieval, Database Queries
-- **Certificate:** (SQL/HackerRank-SQL-Advanced.pdf)
+-  Platform: HackerRank
+-  Earned:  25 October 2026
+-  Credential ID: D643F243CF60
+-  Skills:  SQL, Query Optimization, Data Retrieval, Database Queries
+-  Certificate: SQL/HackerRank-SQL-Advanced.pdf
 
 ### 2. Data Analytics Training
-- **Organization:** SAKSHAM — Adani Skill Development Centre
-- **Training Period:** 4 February 2026 – 4 August 2026
-- **Location:** Ahmedabad, Gujarat, India
-- **NSQF Level:** 6
-- **Grade:** A
-- **QP Code:** SSC/Q0501
-- **Certificate:** (Data-Analytics/Adani-SAKSHAM-Data-Analytics.jpg)
+-  Organization:  SAKSHAM — Adani Skill Development Centre
+-  Training Period:  4 February 2026 – 4 August 2026
+-  Location:  Ahmedabad, Gujarat, India
+-  NSQF Level:  6
+-  Grade:  A
+-  QP Code:  SSC/Q0501
+-  Certificate: Data-Analytics/Adani-SAKSHAM-Data-Analytics.jpg
 
 ## Technical Skills
 
-- **Programming:** Python
-- **Databases:** SQL, MySQL
-- **Data Analytics & Visualization:** Power BI, Tableau, Excel
-- **Web Development:** Django, React
+-  Programming:  Python
+-  Databases:  SQL, MySQL
+-  Data Analytics & Visualization:  Power BI, Tableau, Excel
+-  Web Development: Django, React
 
 ## Career Interests
 
@@ -39,9 +39,9 @@ I'm a Computer Engineering student interested in Data Analytics, SQL, Python, an
 
 ## Connect With Me
 
-- **LinkedIn:** [Hil Patel](https://in.linkedin.com/in/hilpatelss)
-- **Portfolio:** [hilpatel.site](https://hilpatel.site)
-- **GitHub:** [Explore My Repositories](https://github.com/hilpatelss)
+-  LinkedIn: https://in.linkedin.com/in/hilpatelss
+-  Portfolio: https://hilpatel.site
+-  GitHub:https://github.com/hilpatelss
 
 ---
 
