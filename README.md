@@ -11,7 +11,7 @@ I'm a Computer Engineering student interested in Data Analytics, SQL, Python, an
 - **Earned:** 25 October 2026
 - **Credential ID:** D643F243CF60
 - **Skills:** SQL, Query Optimization, Data Retrieval, Database Queries
-- **Certificate:** [View Certificate](SQL/HackerRank-SQL-Advanced.pdf)
+- **Certificate:** (SQL/HackerRank-SQL-Advanced.pdf)
 
 ### 2. Data Analytics Training
 - **Organization:** SAKSHAM — Adani Skill Development Centre
@@ -20,7 +20,7 @@ I'm a Computer Engineering student interested in Data Analytics, SQL, Python, an
 - **NSQF Level:** 6
 - **Grade:** A
 - **QP Code:** SSC/Q0501
-- **Certificate:** [View Certificate](Data-Analytics/Adani-SAKSHAM-Data-Analytics.jpg)
+- **Certificate:** (Data-Analytics/Adani-SAKSHAM-Data-Analytics.jpg)
 
 ## Technical Skills
 
@@ -41,7 +41,7 @@ I'm a Computer Engineering student interested in Data Analytics, SQL, Python, an
 
 - **LinkedIn:** [Hil Patel](https://in.linkedin.com/in/hilpatelss)
 - **Portfolio:** [hilpatel.site](https://hilpatel.site)
-- **GitHub:** [Explore My Repositories](https://github.com/)
+- **GitHub:** [Explore My Repositories](https://github.com/hilpatelss)
 
 ---
 
