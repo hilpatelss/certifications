@@ -20,7 +20,7 @@ I'm a Computer Engineering student interested in Data Analytics, SQL, Python, an
 -  NSQF Level:  6
 -  Grade:  A
 -  QP Code:  SSC/Q0501
--  Certificate: Data-Analytics/Adani-SAKSHAM-Data-Analytics.jpg
+-  Certificate: Data-Analytics/Adani-SAKSHAM-Data-Analytics.pdf
 
 ## Technical Skills
 
